@@ -5,4 +5,4 @@ This fork adds a rotary encoder to the [Pro](https://github.com/kata0510/Lily58/
 
 
 ## Firmware
-Can be found here: https://github.com/kissetfall/keymap_hub
+Can be found here: https://github.com/ergohaven/keymap_hub
